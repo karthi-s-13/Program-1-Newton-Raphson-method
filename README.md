@@ -2,21 +2,21 @@
 
 ## Question:
 
-Find a positive real root of $$x^3$$ − 𝒙 − 𝟐 = 𝟎 using Newton-Raphson method.
+   Find a positive real root of $$x^3$$ − 𝒙 − 𝟐 = 𝟎 using Newton-Raphson method.
 
 ## Aim:
 
-To find a positive real root of $$x^3$$ − 𝒙 − 𝟐 = 𝟎 by using Newton-Raphson method.
+   To find a positive real root of $$x^3$$ − 𝒙 − 𝟐 = 𝟎 by using Newton-Raphson method.
 
 ## Algorithm:
 
-Step 1: Define the function $$f(x) = x**3 - x - 2$$
+   Step 1: Define the function $$f(x) = x**3 - x - 2$$
 
-Step 2: Define the function $$f_1 = 3* x **2 - 1$$
+   Step 2: Define the function $$f_1 = 3* x **2 - 1$$
 
-Step 3: Get the value of $$X_0\$$
+   Step 3: Get the value of $$X_0\$$
 
-Step 4: for i = 1 to 9
+   Step 4: for i = 1 to 9
 
 $$
 X_n = X_0 - \frac{f(X_0)}{f'(X_0)}
@@ -26,7 +26,7 @@ $$
 X_0 = X_n
 $$
 
-Step 5: Print the value of $$X_n$$
+   Step 5: Print the value of $$X_n$$
 
 ## Program:
 ```
