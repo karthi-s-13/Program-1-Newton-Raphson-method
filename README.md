@@ -10,11 +10,11 @@ To find a positive real root of $$x^3$$ − 𝒙 − 𝟐 = 𝟎 by using Newton
 
 ## Algorithm:
 
-Step 1: Define the function f(x) = x**3 - x - 2
+Step 1: Define the function $$f(x) = x**3 - x - 2$$
 
-Step 2: Define the function $$f_1$$ = 3*x ** 2 - 1
+Step 2: Define the function $$f_1 = 3* x **2 - 1$$
 
-Step 3: Get the value of $$X_0$$
+Step 3: Get the value of $$X_0\$$
 
 Step 4: for i = 1 to 9
 
@@ -49,3 +49,4 @@ The approximate root using Newton-Raphson method is 1.5214
 ## Result:
 
 The real root of the given non linear equation is obtained
+
