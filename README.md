@@ -18,9 +18,13 @@ Step 3: Get the value of $$X_0$$
 
 Step 4: for i = 1 to 9
 
-$$X_n$$ = $$X_0$$ - $$\frac{f(x_0)}{f^1(x_0)}$$
+$$
+X_n = X_0 - \frac{f(X_0)}{f'(X_0)}
+$$
 
-$$X_0$$ = $$X_n$$
+$$
+X_0 = X_n
+$$
 
 Step 5: Print the value of $$X_n$$
 
