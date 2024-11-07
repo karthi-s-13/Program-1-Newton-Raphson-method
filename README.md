@@ -44,6 +44,7 @@ print ("The approximate root using Newton-Raphson method is %.4f"%xn)
 ## Output:
 
 Enter the initial approximation: 1
+
 The approximate root using Newton-Raphson method is 1.5214
 
 ## Result:
